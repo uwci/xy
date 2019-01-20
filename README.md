@@ -4,7 +4,7 @@
 
 
 
-First Header | Second Header
+拟用网址的域名 | 替代网址
 ------------ | -------------
 Boated | [https://uwci.github.io/xy/](https://uwci.github.io/xy/)
 [http://uwci.top](http://uwci.top)  | [https://uwci.github.io/x/](https://uwci.github.io/x/)
@@ -30,7 +30,7 @@ edit：[https://github.com/uwci/xy/edit/master/README.md](https://github.com/uwc
 
 ![img-3.jpeg](/Documents/img-3.jpeg)
 
-[img-3.jpeg](/Documents/img-3.jpeg)
+下载该图片：[img-3.jpeg](/Documents/img-3.jpeg)
 
 
 You can use the [editor on GitHub](https://github.com/uwci/xy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
