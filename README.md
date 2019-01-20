@@ -28,7 +28,7 @@ edit：[https://github.com/uwci/xy/edit/master/README.md](https://github.com/uwc
 
 ---
 
-![img-3.jpeg](xy/Documents/img-3.jpeg)
+![img-3.jpeg](/Documents/img-3.jpeg)
 
 
 
