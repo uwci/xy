@@ -2,10 +2,12 @@
 
 ---
 
-[http://uwci.top](http://uwci.top)|[https://uwci.github.io/x/](https://uwci.github.io/x/)
-[http://evica.top](http://evica.top)|[https://uwci.github.io/y/](https://uwci.github.io/y/)
-[Boated]|[https://uwci.github.io/xy/](https://uwci.github.io/xy/)
 
+First Header | Second Header
+------------ | -------------
+Boated | [https://uwci.github.io/xy/](https://uwci.github.io/xy/)
+[http://uwci.top](http://uwci.top)  | [https://uwci.github.io/x/](https://uwci.github.io/x/)
+[http://evica.top](http://evica.top) | [https://uwci.github.io/y/](https://uwci.github.io/y/)
 
 
 [https://uwci.github.io/x/index](https://uwci.github.io/x/index)
